@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/********************************************************************
+	created:	2018/06/23
+	created:	23:6:2018   13:56
+	filename: 	Animator2Asset.cs
+	author:	    jackeypool	
+	
+	purpose:    Editor tool to convert from unity AnimatorController to StateMachine asset	
+*********************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
